@@ -25,12 +25,14 @@ The whole website has two general purposes, one part is solely for the administr
 The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website:</i>
 
 LOGIN PAGE
+
 <img src="SCREENSHOTS/ss1.png">
 
 
 <img src="SCREENSHOTS/ss4.png">
 
 <i>MOBILE PREVIEW</i>
+
 <img src="SCREENSHOTS/ss2.png" width="50%" height="50%">
 
 
