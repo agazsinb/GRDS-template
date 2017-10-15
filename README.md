@@ -11,6 +11,8 @@ A simple portfolio template, with project preview images that slide out to revea
 
 Images: [Unsplash](https://unsplash.com/)
 
+<b>MODIFICATION FOR GRDS TEMPLATE</b>
+
 
 The General Retention and Disposal Schedule (GRDS) is owned by the Queensland  Government. It contains a collection of records of general activities and functions, transitory and short term records created for the purpose of periodic transactional business practices. The content of the document would aid the general public who are willing to create a new business or could benefit a business by referring to the past records in the GRDS website. These records maybe in a form of word processing systems, database systems, or from devices such as security cameras, drones etc. Being a periodically modified documents, the administrator must  update the content every certain amount of time, the administrator are to manage whether or not the records should be kept for a long term or only for a short time to show a history for the future generations.
 
@@ -21,8 +23,6 @@ Our clients has presented us the criteria that was needed for the website that w
 The whole website has two general purposes, one part is solely for the administrator, they would have an assigned username and password because they are the one that is enabled to have a access to modify and delete any part of the content of the GRDS. The other part which is the left part of the homepage is for public use, where when the user clicks on it, they will be taken into a search engine with a section and subsection dropdown menu, as well as keyword text box.
 <i>
 The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website:</i>
-
-<b>MODIFICATION FOR GRDS TEMPLATE</b>
 
 LOGIN PAGE
 <img src="SCREENSHOTS/ss1.png">
