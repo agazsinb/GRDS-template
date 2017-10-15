@@ -31,8 +31,8 @@ LOGIN PAGE
 <img src="SCREENSHOTS/ss4.png">
 
 <i>MOBILE PREVIEW</i>
-<img src="SCREENSHOTS/ss2.png">
+<img src="SCREENSHOTS/ss2.png" width="50%" height="50%">
 
 
-<img src="SCREENSHOTS/ss3.png">
+<img src="SCREENSHOTS/ss3.png" width="50%" height="50%">
 
