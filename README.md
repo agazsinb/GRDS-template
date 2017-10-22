@@ -24,6 +24,9 @@ The whole website has two general purposes, one part is solely for the administr
 
 <b>Design Style Justification</b>
 
+<i>
+The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website</i>
+
 <b>Colour</b>
 Colour palette for this website is chosen upon client’s request, and their main concern is they wanted to stray further from ‘governmental look’ which is dominated by blue, white and dark grey. We then wanted to present a clean, minimal looking website that has a good usability feature.
 
@@ -50,8 +53,6 @@ We have added carousel for short tutorial purpose and sort/filter function to re
 
 <img src="SCREENSHOTS/ss2.png" width="50%" height="50%">
 
-<i>
-The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website</i>
 
 
 
