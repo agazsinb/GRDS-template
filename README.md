@@ -24,15 +24,13 @@ The whole website has two general purposes, one part is solely for the administr
 
 <b>Design Style Justification</b>
 
-Colour
-
+<b>Colour</b>
 Colour palette for this website is chosen upon client’s request, and their main concern is they wanted to stray further from ‘governmental look’ which is dominated by blue, white and dark grey. We then wanted to present a clean, minimal looking website that has a good usability feature.
 
 We choose ‘Indian Red’ as a dominant colour, because it represents excitement and high level energy. Combined with white, it would link directly to contrast which includes image with block of text with popping colour. 
 
 
-Two-sides Panel
-
+<b>Two-sides Panel</b>
 We decided to go on experimental ways to let user choose whether they want to explore/search particular document, using two-sides panel. This style was highly recommended to us as this represents minimalistic yet clean design.
 
 <img src="SCREENSHOTS/ss3.png" width="50%" height="50%">
@@ -40,22 +38,21 @@ We decided to go on experimental ways to let user choose whether they want to ex
 
 
 
-Search Tool
-
+<b>Search Tool</b>
 We have added carousel for short tutorial purpose and sort/filter function to refine search.
-
 <img src="SCREENSHOTS/ss4.png">
 
-<i>
-The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website:</i>
-
-
-LOGIN PAGE
 
 <img src="SCREENSHOTS/ss1.png">
 
 <i>mobile preview</i>
 <img src="SCREENSHOTS/ss2.png" width="50%" height="50%">
+
+<i>
+The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website:</i>
+
+
+
 
 
 
