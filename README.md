@@ -32,7 +32,9 @@ We choose ‘Indian Red’ as a dominant colour, because it represents excitemen
 
 <b>Two-sides Panel</b>
 We decided to go on experimental ways to let user choose whether they want to explore/search particular document, using two-sides panel. This style was highly recommended to us as this represents minimalistic yet clean design.
+
 (<i>mobile preview</i>)
+
 <img src="SCREENSHOTS/ss3.png" width="50%" height="50%">
 
 
@@ -45,6 +47,7 @@ We have added carousel for short tutorial purpose and sort/filter function to re
 <img src="SCREENSHOTS/ss1.png">
 
 <i>mobile preview</i>
+
 <img src="SCREENSHOTS/ss2.png" width="50%" height="50%">
 
 <i>
