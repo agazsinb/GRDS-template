@@ -21,20 +21,41 @@ As of now the document is available for the public but has limited action for th
 Our clients has presented us the criteria that was needed for the website that will aid the QSA make a full use of the GRDS documents. They are in charge of managing the archives in the GRDS documents, hence are able to provide us examples of what the essential purpose of the website is. During the process of making the website, we have regular fortnightly meetings with the clients to understand their needs and expectation of the project.
 
 The whole website has two general purposes, one part is solely for the administrator, they would have an assigned username and password because they are the one that is enabled to have a access to modify and delete any part of the content of the GRDS. The other part which is the left part of the homepage is for public use, where when the user clicks on it, they will be taken into a search engine with a section and subsection dropdown menu, as well as keyword text box.
+
+<b>Design Style Justification</b>
+
+Colour
+
+Colour palette for this website is chosen upon client’s request, and their main concern is they wanted to stray further from ‘governmental look’ which is dominated by blue, white and dark grey. We then wanted to present a clean, minimal looking website that has a good usability feature.
+
+We choose ‘Indian Red’ as a dominant colour, because it represents excitement and high level energy. Combined with white, it would link directly to contrast which includes image with block of text with popping colour. 
+
+
+Two-sides Panel
+
+We decided to go on experimental ways to let user choose whether they want to explore/search particular document, using two-sides panel. This style was highly recommended to us as this represents minimalistic yet clean design.
+
+<img src="SCREENSHOTS/ss3.png" width="50%" height="50%">
+<i>mobile preview</i>
+
+
+
+Search Tool
+
+We have added carousel for short tutorial purpose and sort/filter function to refine search.
+
+<img src="SCREENSHOTS/ss4.png">
+
 <i>
 The project aim for a responsive and request from client to stay away from 'governmental-styled' website. As a front-end developer in the team, I was responsible for the development on login and search ux. The following screenshots are the final visual of website:</i>
+
 
 LOGIN PAGE
 
 <img src="SCREENSHOTS/ss1.png">
 
-
-<img src="SCREENSHOTS/ss4.png">
-
-<i>MOBILE PREVIEW</i>
-
+<i>mobile preview</i>
 <img src="SCREENSHOTS/ss2.png" width="50%" height="50%">
 
 
-<img src="SCREENSHOTS/ss3.png" width="50%" height="50%">
 
