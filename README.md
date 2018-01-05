@@ -1,6 +1,3 @@
-<b>MODIFICATION FOR GRDS TEMPLATE</b>
-
-
 The General Retention and Disposal Schedule (GRDS) is owned by the Queensland  Government. It contains a collection of records of general activities and functions, transitory and short term records created for the purpose of periodic transactional business practices. The content of the document would aid the general public who are willing to create a new business or could benefit a business by referring to the past records in the GRDS website. These records maybe in a form of word processing systems, database systems, or from devices such as security cameras, drones etc. Being a periodically modified documents, the administrator must  update the content every certain amount of time, the administrator are to manage whether or not the records should be kept for a long term or only for a short time to show a history for the future generations.
 
 As of now the document is available for the public but has limited action for them, the way that the document is arranged also makes it difficult and time consuming for the authorized personnel to access and update the records. The current system only provides a pdf files that would potentially be difficult for the public to navigate through, as there are no system that would gamify the act of searching through the document. 
